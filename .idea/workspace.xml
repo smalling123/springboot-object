@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0d410da-7129-480b-bfaf-603ae2ec71b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VpimbXEBlntM8Li5H3ygiCRHKc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Demo2Application">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserImgServiceTest.crud" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo2.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo2.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo2.service.UserImgServiceTest" />
+      <option name="METHOD_NAME" value="crud" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Demo2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo2.Demo2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserImgServiceTest.crud" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0d410da-7129-480b-bfaf-603ae2ec71b1" name="Default Changelist" comment="" />
+      <created>1577956596928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577956596928</updated>
+      <workItem from="1577956598924" duration="615000" />
+      <workItem from="1577957283504" duration="29000" />
+      <workItem from="1577957341314" duration="781000" />
+      <workItem from="1577958146972" duration="2230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="98" y="75" width="1182" height="673" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577957696055">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="98" y="75" width="1182" height="673" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1577957696055" />
+    <state x="453" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1577958663439">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="453" y="124" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1577958663439" />
+    <state width="433" height="466" key="DebuggerActiveHint" timestamp="1577959975444">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="433" height="466" key="DebuggerActiveHint/0.23.1280.777@0.23.1280.777" timestamp="1577959975444" />
+    <state width="1238" height="290" key="GridCell.Tab.0.bottom" timestamp="1577960519245">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="290" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1577960519245" />
+    <state width="1238" height="290" key="GridCell.Tab.0.center" timestamp="1577960519244">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="290" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1577960519244" />
+    <state width="1238" height="290" key="GridCell.Tab.0.left" timestamp="1577960519244">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="290" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1577960519244" />
+    <state width="1238" height="290" key="GridCell.Tab.0.right" timestamp="1577960519245">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="290" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1577960519245" />
+    <state width="1238" height="290" key="GridCell.Tab.1.bottom" timestamp="1577960519246">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="290" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1577960519246" />
+    <state width="1238" height="290" key="GridCell.Tab.1.center" timestamp="1577960519245">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="290" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1577960519245" />
+    <state width="1238" height="290" key="GridCell.Tab.1.left" timestamp="1577960519245">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="290" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1577960519245" />
+    <state width="1238" height="290" key="GridCell.Tab.1.right" timestamp="1577960519246">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="290" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1577960519246" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1577957393049">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1577957393049" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo2/controller/UserController.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo2/controller/UserController.java</url>
+          <line>140</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
